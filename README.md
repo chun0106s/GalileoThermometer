@@ -1,0 +1,4 @@
+GalileoThermometer
+==================
+
+GalileoThermometer-iOS-App
